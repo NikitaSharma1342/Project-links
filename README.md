@@ -1,7 +1,7 @@
 # Project-links
 | S.No. | Project Name | Description |
 | --- | --- | --- |
-| 1. | [Rememnber in a Flash](https://github.com/NikitaSharma1342/Remember-in-a-Flash) | This is a memorizing game with the help of Flash cards. |
+| 1. | [Remember in a Flash](https://github.com/NikitaSharma1342/Remember-in-a-Flash) | This is a memorizing game with the help of Flash cards. |
 | 2. | [Snake Game](https://github.com/NikitaSharma1342/Snake-Game)| An arcade maize game. |
 | 3. | [The Password Manager](https://github.com/NikitaSharma1342/Password-Manager) | Generate and save passwords |
 | 4. | [Ping Pong Game](https://github.com/NikitaSharma1342/Ping-Pong-Game)| An arcade game imitating table tennis. |
